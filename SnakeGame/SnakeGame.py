@@ -1,5 +1,7 @@
 from tkinter import *
 import random
+import numpy
+import matplotlib as plt
 
 SCREEN_WIDTH = 500
 SCREEN_HEIGHT = 500
@@ -11,6 +13,7 @@ SNAKE_LENGTH = 3
 DIRECTION = "right"
 GAME_SPEED = 90
 score = 0
+all_coordinates = numpy.array([])
 
 
 class Snake:
@@ -19,11 +22,12 @@ class Snake:
         self.coordinates = []
         for length in range(SNAKE_LENGTH):
             self.coordinates.append([0, 0])
-
         for x, y in self.coordinates:
             self.body_parts.append(
                 canvas.create_rectangle(x, y, x + SPACE_SIZE, y + SPACE_SIZE, fill=SNAKE_COLOR, tags="snake")
             )
+        new_coordinates = [[x + SPACE_SIZE, y + SPACE_SIZE] for x, y in self.coordinates]
+        print(new_coordinates)
         global food
         food = Food()
         next_turn(self, food)
@@ -53,15 +57,26 @@ class Snake:
         else:
             yh += SPACE_SIZE
 
+        # persist_data(direction, self.coordinates)
         self.body_parts.insert(
             0, canvas.create_rectangle(xh, yh, xh + SPACE_SIZE, yh + SPACE_SIZE, fill=SNAKE_COLOR, tags="snake")
         )
+        all_coordinates.append([xh, yh])
 
         if coincides is False:
             self.coordinates.pop()
             canvas.delete(self.body_parts[-1])
             self.body_parts.pop()
         self.coordinates.insert(0, [xh, yh])
+
+
+def persist_data(key, value):
+    persist_file = open("persist_file.pf", "a")
+    persist_file.write(f"\n{key}:{value}")
+    persist_file.close()
+    persist_file = open("persist_file.pf", "r")
+    print(persist_file.read())
+    persist_file.close
 
 
 class Food:
