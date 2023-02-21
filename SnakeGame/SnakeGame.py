@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 import numpy
-import matplotlib as plt
+import matplotlib.pyplot as pplt
 
 SCREEN_WIDTH = 500
 SCREEN_HEIGHT = 500
@@ -13,7 +13,7 @@ SNAKE_LENGTH = 3
 DIRECTION = "right"
 GAME_SPEED = 90
 score = 0
-all_coordinates = numpy.array([])
+all_coordinates = []
 
 
 class Snake:
@@ -62,6 +62,11 @@ class Snake:
             0, canvas.create_rectangle(xh, yh, xh + SPACE_SIZE, yh + SPACE_SIZE, fill=SNAKE_COLOR, tags="snake")
         )
         all_coordinates.append([xh, yh])
+        # np_array = numpy.array(all_coordinates)
+        # pplt.plot(np_array)
+        # pplt.show()
+
+        if m is false:
 
         if coincides is False:
             self.coordinates.pop()
