@@ -1,0 +1,150 @@
+QUALIFIKAT
+Arbeitsvorbereitung
+Automatisierungstechnik
+
+CAD-Konstruktion 
+
+CAM
+CNC
+Einkauf
+
+Elektrische Betriebstechnik
+
+Elektronik
+
+Erodiertechnik
+
+Fertigungsplanung /-steuerung
+
+Kunststoffschweißen
+
+Kunststoffspritzguss
+
+Lager/Logistik
+
+Maschinen-/ Anlagenführung
+
+Mechanische Betriebstechnik
+
+Metallbau Konstruktionstechnik
+
+Metallguss
+
+Montagetechnik
+
+Oberflächenbeschichtung
+
+Pneumatik/Hydraulik
+
+Projektmanagement
+
+Qualitätsmanagement
+
+Qualitätssicherung
+
+Sachbearbeitung
+
+Schweißtechnik
+
+Umformtechnik Biegen
+
+Umformtechnik Lasern
+
+Umformtechnik Stanz
+
+Vorrichtungsbau
+
+Werkzeugbau Formentechnik
+
+Werkzeugbau Stanz/Umform
+
+Zerspanungstechnik Drehen
+
+Zerspanungstechnik Fräsen
+
+Zerspanungstechnik Schleifen
+
+Vertrieb
+
+Entwicklung
+
+Abteilungsleitung
+3D Messtechnik
+Erodieren (Senkerodieren)
+Erodieren (Drahtschneiden)
+Key Account Manager
+Labor
+Schichtleitung
+IP
+TQLKW1
+TQElektroniker1
+Schweißen MAG
+Schweißen WIG
+Heidenhain
+Sinumerik
+Fanuc/PAL
+Dialog
+EPL
+Mazaktrol
+Traub TX
+ShopMill/ShopTurn
+Ultimax
+Produktionshelfer Metall
+Produktionshelfer Kunststoff
+Produktionshelfer Elektro
+Automotiv
+Maschinenbau
+Produktionshelfer Mikroskop
+Schaltschrankbau
+Extrusion
+Elektrische Gebäudetechnik
+Servicetechnik
+Controlling
+Staplerschein
+SPS
+Produktionshelfer Lebensmittel
+Helfer ohne Industrieerfahrung
+Human Ressource
+Buchhaltung
+Produktionshelfer Druck
+Löten
+Produktionshelfer Medizin
+Reinraum
+Sieb-/Tampondruck
+ZQP11
+ZQP12
+ZQP13
+ZQP14
+ZQP15
+ZQP16
+ZQP17
+TQ12
+TQ13
+TQ14
+TQ15
+TQ16
+TQ17
+TQMechatroniker1
+IP Serienmail
+TQLKW2
+ZAW1
+ZAW2
+ZAW3
+FRI2
+FRI3
+Datev1
+Datev2
+Maschinenbediener
+Produktionshelfer Lager
+Lohnbuchhaltung
+Empfang
+Teamleitung
+TQMechatroniker2
+TQ18
+TQElektroniker2
+TQLKW4
+TQElektroniker3
+TQLKW3
+TQ19
+FRI4
+TQ2Mechatroniker1
