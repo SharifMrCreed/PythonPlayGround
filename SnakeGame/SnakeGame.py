@@ -66,8 +66,6 @@ class Snake:
         # pplt.plot(np_array)
         # pplt.show()
 
-        if m is false:
-
         if coincides is False:
             self.coordinates.pop()
             canvas.delete(self.body_parts[-1])
