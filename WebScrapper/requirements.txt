@@ -1,0 +1,4 @@
+beautifulsoup4 #web scrapping Library
+requests #Requests library
+lxml #Html parser thats better and faster than the standard python html parser
+colorama #Coloring the console :sweat_smile:
