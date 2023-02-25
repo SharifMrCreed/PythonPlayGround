@@ -37,7 +37,6 @@ with open("berufe.csv", "r") as file:
         if not new_list.__contains__(skill[1].replace("\n", "").replace("\"", "")):
             new_list.append(skills[1].replace("\n", "").replace("\"", ""))
 
-new_list.sort()
 print(new_list)
 print(len(new_list))
 with open("newBerufe.txt", "w") as _file:
