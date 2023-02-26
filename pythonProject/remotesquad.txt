@@ -1,0 +1,1851 @@
+<body class="home page-template page-template-elementor_canvas page page-id-977 custom-background wp-custom-logo wp-embed-responsive ehf-template-royal-elementor-kit ehf-stylesheet-royal-elementor-kit elementor-default elementor-template-canvas elementor-kit-11 elementor-page elementor-page-977">
+ <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <filter id="wp-duotone-dark-grayscale">
+    <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+    </fecolormatrix>
+    <fecomponenttransfer color-interpolation-filters="sRGB">
+     <fefuncr tablevalues="0 0.49803921568627" type="table">
+     </fefuncr>
+     <fefuncg tablevalues="0 0.49803921568627" type="table">
+     </fefuncg>
+     <fefuncb tablevalues="0 0.49803921568627" type="table">
+     </fefuncb>
+     <fefunca tablevalues="1 1" type="table">
+     </fefunca>
+    </fecomponenttransfer>
+    <fecomposite in2="SourceGraphic" operator="in">
+    </fecomposite>
+   </filter>
+  </defs>
+ </svg>
+ <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <filter id="wp-duotone-grayscale">
+    <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+    </fecolormatrix>
+    <fecomponenttransfer color-interpolation-filters="sRGB">
+     <fefuncr tablevalues="0 1" type="table">
+     </fefuncr>
+     <fefuncg tablevalues="0 1" type="table">
+     </fefuncg>
+     <fefuncb tablevalues="0 1" type="table">
+     </fefuncb>
+     <fefunca tablevalues="1 1" type="table">
+     </fefunca>
+    </fecomponenttransfer>
+    <fecomposite in2="SourceGraphic" operator="in">
+    </fecomposite>
+   </filter>
+  </defs>
+ </svg>
+ <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <filter id="wp-duotone-purple-yellow">
+    <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+    </fecolormatrix>
+    <fecomponenttransfer color-interpolation-filters="sRGB">
+     <fefuncr tablevalues="0.54901960784314 0.98823529411765" type="table">
+     </fefuncr>
+     <fefuncg tablevalues="0 1" type="table">
+     </fefuncg>
+     <fefuncb tablevalues="0.71764705882353 0.25490196078431" type="table">
+     </fefuncb>
+     <fefunca tablevalues="1 1" type="table">
+     </fefunca>
+    </fecomponenttransfer>
+    <fecomposite in2="SourceGraphic" operator="in">
+    </fecomposite>
+   </filter>
+  </defs>
+ </svg>
+ <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <filter id="wp-duotone-blue-red">
+    <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+    </fecolormatrix>
+    <fecomponenttransfer color-interpolation-filters="sRGB">
+     <fefuncr tablevalues="0 1" type="table">
+     </fefuncr>
+     <fefuncg tablevalues="0 0.27843137254902" type="table">
+     </fefuncg>
+     <fefuncb tablevalues="0.5921568627451 0.27843137254902" type="table">
+     </fefuncb>
+     <fefunca tablevalues="1 1" type="table">
+     </fefunca>
+    </fecomponenttransfer>
+    <fecomposite in2="SourceGraphic" operator="in">
+    </fecomposite>
+   </filter>
+  </defs>
+ </svg>
+ <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <filter id="wp-duotone-midnight">
+    <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+    </fecolormatrix>
+    <fecomponenttransfer color-interpolation-filters="sRGB">
+     <fefuncr tablevalues="0 0" type="table">
+     </fefuncr>
+     <fefuncg tablevalues="0 0.64705882352941" type="table">
+     </fefuncg>
+     <fefuncb tablevalues="0 1" type="table">
+     </fefuncb>
+     <fefunca tablevalues="1 1" type="table">
+     </fefunca>
+    </fecomponenttransfer>
+    <fecomposite in2="SourceGraphic" operator="in">
+    </fecomposite>
+   </filter>
+  </defs>
+ </svg>
+ <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <filter id="wp-duotone-magenta-yellow">
+    <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+    </fecolormatrix>
+    <fecomponenttransfer color-interpolation-filters="sRGB">
+     <fefuncr tablevalues="0.78039215686275 1" type="table">
+     </fefuncr>
+     <fefuncg tablevalues="0 0.94901960784314" type="table">
+     </fefuncg>
+     <fefuncb tablevalues="0.35294117647059 0.47058823529412" type="table">
+     </fefuncb>
+     <fefunca tablevalues="1 1" type="table">
+     </fefunca>
+    </fecomponenttransfer>
+    <fecomposite in2="SourceGraphic" operator="in">
+    </fecomposite>
+   </filter>
+  </defs>
+ </svg>
+ <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <filter id="wp-duotone-purple-green">
+    <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+    </fecolormatrix>
+    <fecomponenttransfer color-interpolation-filters="sRGB">
+     <fefuncr tablevalues="0.65098039215686 0.40392156862745" type="table">
+     </fefuncr>
+     <fefuncg tablevalues="0 1" type="table">
+     </fefuncg>
+     <fefuncb tablevalues="0.44705882352941 0.4" type="table">
+     </fefuncb>
+     <fefunca tablevalues="1 1" type="table">
+     </fefunca>
+    </fecomponenttransfer>
+    <fecomposite in2="SourceGraphic" operator="in">
+    </fecomposite>
+   </filter>
+  </defs>
+ </svg>
+ <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <filter id="wp-duotone-blue-orange">
+    <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+    </fecolormatrix>
+    <fecomponenttransfer color-interpolation-filters="sRGB">
+     <fefuncr tablevalues="0.098039215686275 1" type="table">
+     </fefuncr>
+     <fefuncg tablevalues="0 0.66274509803922" type="table">
+     </fefuncg>
+     <fefuncb tablevalues="0.84705882352941 0.41960784313725" type="table">
+     </fefuncb>
+     <fefunca tablevalues="1 1" type="table">
+     </fefunca>
+    </fecomponenttransfer>
+    <fecomposite in2="SourceGraphic" operator="in">
+    </fecomposite>
+   </filter>
+  </defs>
+ </svg>
+ <div class="elementor elementor-339" data-elementor-id="339" data-elementor-type="wp-post">
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-2d84bfd elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle wpr-particle-no wpr-jarallax-no wpr-parallax-no" data-element_type="section" data-id="2d84bfd" data-settings='{"background_background":"classic"}'>
+   <div class="elementor-background-overlay">
+   </div>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ccecf4a" data-element_type="column" data-id="ccecf4a" data-settings='{"background_background":"slideshow","background_slideshow_gallery":[],"background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500}'>
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-a476c43 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="a476c43">
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6a5ebc3" data-element_type="column" data-id="6a5ebc3">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-c84a3f6 wpr-logo-position-center elementor-widget elementor-widget-wpr-logo" data-element_type="widget" data-id="c84a3f6" data-widget_type="wpr-logo.default">
+           <div class="elementor-widget-container">
+            <div class="wpr-logo elementor-clearfix">
+             <picture class="wpr-logo-image">
+              <source media="(max-width: 767px)" srcset="http://remote-squad.com/wp-content/uploads/2022/06/Gold-White-Elegant-Property-Logo-11-2.png"/>
+              <source srcset="http://remote-squad.com/wp-content/uploads/2022/06/Gold-White-Elegant-Property-Logo-11-2.png 1x, http://remote-squad.com/wp-content/uploads/2022/06/Gold-White-Elegant-Property-Logo-11-2.png 2x"/>
+              <img alt="" src="http://remote-squad.com/wp-content/uploads/2022/06/Gold-White-Elegant-Property-Logo-11-2.png"/>
+             </picture>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3fe8c0d" data-element_type="column" data-id="3fe8c0d">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-bd3e942 wpr-main-menu-align-center wpr-main-menu-align--tabletcenter wpr-mobile-toggle-v4 wpr-pointer-underline wpr-pointer-line-fx wpr-pointer-fx-fade wpr-sub-icon-caret-down wpr-sub-menu-fx-fade wpr-nav-menu-bp-tablet wpr-mobile-menu-display-dropdown wpr-mobile-menu-full-width elementor-widget elementor-widget-wpr-mega-menu" data-element_type="widget" data-id="bd3e942" data-settings='{"menu_layout":"horizontal"}' data-widget_type="wpr-mega-menu.default">
+           <div class="elementor-widget-container">
+            <nav class="wpr-nav-menu-container wpr-mega-menu-container wpr-nav-menu-horizontal" data-trigger="hover">
+             <ul class="wpr-nav-menu wpr-mega-menu" id="menu-1-bd3e942">
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-977 current_page_item menu-item-979">
+               <a class="wpr-menu-item wpr-pointer-item wpr-active-menu-item" href="http://remote-squad.com/">
+                <span>
+                 Home
+                </span>
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-828">
+               <a class="wpr-menu-item wpr-pointer-item" href="http://remote-squad.com/services">
+                <span>
+                 Services
+                </span>
+                <i aria-hidden="true" class="wpr-sub-icon fas">
+                </i>
+               </a>
+               <ul class="sub-menu wpr-sub-menu">
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1209">
+                 <a class="wpr-sub-menu-item" href="http://remote-squad.com/mobile-app-development">
+                  <span>
+                   Mobile App Development
+                  </span>
+                 </a>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1207">
+                  <a class="wpr-sub-menu-item" href="http://remote-squad.com/social-media-marketing">
+                   <span>
+                    Social Media Marketing
+                   </span>
+                  </a>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1208">
+                   <a class="wpr-sub-menu-item" href="http://remote-squad.com/website-design-and-development">
+                    <span>
+                     Website Design and Development
+                    </span>
+                   </a>
+                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1204">
+                    <a class="wpr-sub-menu-item" href="http://remote-squad.com/graphics-design">
+                     <span>
+                      Graphics Design
+                     </span>
+                    </a>
+                   </li>
+                  </li>
+                 </li>
+                </li>
+               </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-912">
+               <a class="wpr-menu-item wpr-pointer-item" href="http://remote-squad.com/contact">
+                <span>
+                 Contact Us
+                </span>
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829">
+               <a class="wpr-menu-item wpr-pointer-item" href="http://remote-squad.com/about">
+                <span>
+                 About Us
+                </span>
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-913">
+               <a class="wpr-menu-item wpr-pointer-item" href="http://remote-squad.com/team">
+                <span>
+                 Team
+                </span>
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827">
+               <a class="wpr-menu-item wpr-pointer-item" href="http://remote-squad.com/portfolio">
+                <span>
+                 Portfolio
+                </span>
+               </a>
+              </li>
+             </ul>
+            </nav>
+            <nav class="wpr-mobile-nav-menu-container">
+             <div class="wpr-mobile-toggle-wrap">
+              <div class="wpr-mobile-toggle">
+               <span class="wpr-mobile-toggle-line">
+               </span>
+               <span class="wpr-mobile-toggle-line">
+               </span>
+               <span class="wpr-mobile-toggle-line">
+               </span>
+              </div>
+             </div>
+             <div class="wpr-mobile-mega-menu-wrap">
+              <ul class="wpr-mobile-nav-menu wpr-mobile-mega-menu" id="mobile-menu-2-bd3e942">
+               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-977 current_page_item menu-item-979">
+                <a class="wpr-mobile-menu-item wpr-active-menu-item" href="http://remote-squad.com/">
+                 Home
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-828">
+                <a class="wpr-mobile-menu-item" href="http://remote-squad.com/services">
+                 Services
+                 <i class="wpr-mobile-sub-icon">
+                 </i>
+                </a>
+                <ul class="sub-menu wpr-mobile-sub-menu">
+                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1209">
+                  <a class="wpr-mobile-sub-menu-item" href="http://remote-squad.com/mobile-app-development">
+                   Mobile App Development
+                  </a>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1207">
+                   <a class="wpr-mobile-sub-menu-item" href="http://remote-squad.com/social-media-marketing">
+                    Social Media Marketing
+                   </a>
+                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1208">
+                    <a class="wpr-mobile-sub-menu-item" href="http://remote-squad.com/website-design-and-development">
+                     Website Design and Development
+                    </a>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1204">
+                     <a class="wpr-mobile-sub-menu-item" href="http://remote-squad.com/graphics-design">
+                      Graphics Design
+                     </a>
+                    </li>
+                   </li>
+                  </li>
+                 </li>
+                </ul>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-912">
+                <a class="wpr-mobile-menu-item" href="http://remote-squad.com/contact">
+                 Contact Us
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829">
+                <a class="wpr-mobile-menu-item" href="http://remote-squad.com/about">
+                 About Us
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-913">
+                <a class="wpr-mobile-menu-item" href="http://remote-squad.com/team">
+                 Team
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827">
+                <a class="wpr-mobile-menu-item" href="http://remote-squad.com/portfolio">
+                 Portfolio
+                </a>
+               </li>
+              </ul>
+             </div>
+            </nav>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ef2bb17" data-element_type="column" data-id="ef2bb17">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-e258611 elementor-align-left elementor-widget elementor-widget-button" data-element_type="widget" data-id="e258611" data-widget_type="button.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper">
+             <a class="elementor-button-link elementor-button elementor-size-sm" href="http://remote-squad.com/contact" role="button">
+              <span class="elementor-button-content-wrapper">
+               <span class="elementor-button-text">
+                Work With Us
+               </span>
+              </span>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+  </section>
+ </div>
+ <div class="elementor elementor-977" data-elementor-id="977" data-elementor-type="wp-page">
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-67b02c5 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="67b02c5" data-settings='{"background_background":"video","background_video_link":"https:\/\/youtu.be\/tTxYxgvafjE"}'>
+   <div class="elementor-background-video-container elementor-hidden-phone">
+    <div class="elementor-background-video-embed">
+    </div>
+   </div>
+   <div class="elementor-background-overlay">
+   </div>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44f6212" data-element_type="column" data-id="44f6212">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-8759b09 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="8759b09">
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9ec3b24" data-element_type="column" data-id="9ec3b24">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-dfc0313 elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="dfc0313" data-settings='{"_animation":"wobble"}' data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <style>
+             /*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}
+            </style>
+            <p>
+             <strong>
+              ELEVATE YOUR ONLINE PRESENCE WITH US
+             </strong>
+            </p>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-bfffde0 elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="bfffde0" data-settings='{"_animation":"slideInLeft"}' data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             We develop the Best Mobile Apps, Best Websites with high quality and also we have the Best Social Media Marketing Strategies. We have ;
+            </p>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-5f3c1c7 wpr-advanced-text-style-animated wpr-fancy-text-typing wpr-animated-text-infinite-yes elementor-widget elementor-widget-wpr-advanced-text" data-element_type="widget" data-id="5f3c1c7" data-settings='{"anim_loop":"yes"}' data-widget_type="wpr-advanced-text.default">
+           <div class="elementor-widget-container">
+            <h3 class="wpr-advanced-text">
+             <span class="wpr-anim-text wpr-anim-text-type-typing wpr-anim-text-letters" data-anim-duration="100,2000" data-anim-loop="yes">
+              <span class="wpr-anim-text-inner">
+               <b>
+                Mobile App Development
+               </b>
+               <b>
+                Social Media Marketing
+               </b>
+               <b>
+                Website Design and Development
+               </b>
+              </span>
+             </span>
+            </h3>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-596461f elementor-align-left elementor-widget elementor-widget-button" data-element_type="widget" data-id="596461f" data-widget_type="button.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper">
+             <a class="elementor-button-link elementor-button elementor-size-sm" href="http://remote-squad.com/contact%20" role="button">
+              <span class="elementor-button-content-wrapper">
+               <span class="elementor-button-icon elementor-align-icon-right">
+                <i aria-hidden="true" class="fas fa-arrow-right">
+                </i>
+               </span>
+               <span class="elementor-button-text">
+                Get In Touch
+               </span>
+              </span>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-352ce99" data-element_type="column" data-id="352ce99">
+         <div class="elementor-widget-wrap">
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-e86c40c elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="e86c40c">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-adbe9af" data-element_type="column" data-id="adbe9af">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-0381692 elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0381692" data-settings='{"_animation":"fadeInLeft"}' data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <style>
+         /*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
+        </style>
+        <h1 class="elementor-heading-title elementor-size-default">
+         OUR SERVICES
+        </h1>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-0436ebb elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible" data-element_type="section" data-id="0436ebb" data-settings='{"animation":"fadeInLeft"}'>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cbb36c9" data-element_type="column" data-id="cbb36c9">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-4478ee8 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="4478ee8" data-settings='{"animation":"none"}'>
+       <div class="elementor-background-overlay">
+       </div>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-17896ad" data-element_type="column" data-id="17896ad" data-settings='{"background_background":"classic"}'>
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-311b0c3 elementor-widget elementor-widget-image" data-element_type="widget" data-id="311b0c3" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <style>
+             /*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
+            </style>
+            <img alt="" class="elementor-animation-buzz attachment-thumbnail size-thumbnail wp-image-1020" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="http://remote-squad.com/wp-content/uploads/2023/01/development-150x150.png" srcset="http://remote-squad.com/wp-content/uploads/2023/01/development-150x150.png 150w, http://remote-squad.com/wp-content/uploads/2023/01/development-300x300.png 300w, http://remote-squad.com/wp-content/uploads/2023/01/development.png 512w" width="150">
+            </img>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-17b185b" data-element_type="column" data-id="17b185b">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-7a3192e elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7a3192e" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">
+             <a href="http://remote-squad.com/contact%20">
+              Mobile App Development
+             </a>
+            </h2>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-c3d6be8 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="c3d6be8" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             We develop apps that simplifies and streamline your business processes. These apps will be tailored to your specific needs.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ef5da43" data-element_type="column" data-id="ef5da43">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-8108fa8 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="8108fa8" data-settings='{"background_background":"classic","animation":"none"}'>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ab78417" data-element_type="column" data-id="ab78417" data-settings='{"background_background":"classic"}'>
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-437d66d elementor-widget elementor-widget-image" data-element_type="widget" data-id="437d66d" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <img alt="" class="elementor-animation-buzz attachment-thumbnail size-thumbnail wp-image-1025" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="http://remote-squad.com/wp-content/uploads/2023/01/app-development-150x150.png" srcset="http://remote-squad.com/wp-content/uploads/2023/01/app-development-150x150.png 150w, http://remote-squad.com/wp-content/uploads/2023/01/app-development-300x300.png 300w, http://remote-squad.com/wp-content/uploads/2023/01/app-development.png 512w" width="150"/>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c411365" data-element_type="column" data-id="c411365">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-297c9b5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="297c9b5" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">
+             <a href="http://remote-squad.com/contact%20">
+              Web Design and Development
+             </a>
+            </h2>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-490e4b4 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="490e4b4" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             Transform your online presence with our expert website design team. Get a custom website that showcases your business.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-11cac4b" data-element_type="column" data-id="11cac4b">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-8eeabf4 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="8eeabf4" data-settings='{"animation":"none"}'>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-64f1b98" data-element_type="column" data-id="64f1b98" data-settings='{"background_background":"classic"}'>
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-828207b elementor-widget elementor-widget-image" data-element_type="widget" data-id="828207b" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <img alt="" class="elementor-animation-buzz attachment-thumbnail size-thumbnail wp-image-1026" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="http://remote-squad.com/wp-content/uploads/2023/01/social-media-pic-150x150.png" srcset="http://remote-squad.com/wp-content/uploads/2023/01/social-media-pic-150x150.png 150w, http://remote-squad.com/wp-content/uploads/2023/01/social-media-pic.png 300w" width="150"/>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-90419ce" data-element_type="column" data-id="90419ce">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-3604f64 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="3604f64" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">
+             <a href="http://remote-squad.com/contact">
+              Social Media Marketing
+             </a>
+            </h2>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-94e6b06 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="94e6b06" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             Join a number of businesses who have seen success with our social media marketing services. Let our team take your brand.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-8d08683 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible" data-element_type="section" data-id="8d08683" data-settings='{"animation":"fadeInLeft"}'>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-23588f8" data-element_type="column" data-id="23588f8">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-f03ceab elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="f03ceab" data-settings='{"animation":"none"}'>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-da4b1a1" data-element_type="column" data-id="da4b1a1" data-settings='{"background_background":"classic"}'>
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-63d9a29 elementor-widget elementor-widget-image" data-element_type="widget" data-id="63d9a29" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <img alt="" class="elementor-animation-buzz attachment-thumbnail size-thumbnail wp-image-1064" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="http://remote-squad.com/wp-content/uploads/2023/01/market-analysis-150x150.png" srcset="http://remote-squad.com/wp-content/uploads/2023/01/market-analysis-150x150.png 150w, http://remote-squad.com/wp-content/uploads/2023/01/market-analysis-300x300.png 300w, http://remote-squad.com/wp-content/uploads/2023/01/market-analysis.png 512w" width="150"/>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-631d95b" data-element_type="column" data-id="631d95b">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-0c9f641 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0c9f641" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">
+             <a href="http://remote-squad.com/contact%20">
+              AI and Marketing Analytics
+             </a>
+            </h2>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-b4b293b elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="b4b293b" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             The advanced tools that we utilize for AI enable us to consistently produce high quality products for our clients
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a2e25a3" data-element_type="column" data-id="a2e25a3">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-acd7cd7 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="acd7cd7" data-settings='{"animation":"none"}'>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e7198bd" data-element_type="column" data-id="e7198bd" data-settings='{"background_background":"classic"}'>
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-548b983 elementor-widget elementor-widget-image" data-element_type="widget" data-id="548b983" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <img alt="" class="elementor-animation-buzz attachment-thumbnail size-thumbnail wp-image-1030" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="http://remote-squad.com/wp-content/uploads/2023/01/illustration-150x150.png" srcset="http://remote-squad.com/wp-content/uploads/2023/01/illustration-150x150.png 150w, http://remote-squad.com/wp-content/uploads/2023/01/illustration-300x300.png 300w, http://remote-squad.com/wp-content/uploads/2023/01/illustration.png 512w" width="150"/>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-409815e" data-element_type="column" data-id="409815e">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-8fb96f4 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="8fb96f4" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">
+             <a href="http://remote-squad.com/contact%20">
+              Graphics Design
+             </a>
+            </h2>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-246719a elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="246719a" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             We consistently create high-quality logos, flyers, and videos for our clients, with a level of expertise that is recognized internationally in the shortest time.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4ecf69c" data-element_type="column" data-id="4ecf69c">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-96f33bf elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="96f33bf" data-settings='{"animation":"none"}'>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-49b12f2" data-element_type="column" data-id="49b12f2" data-settings='{"background_background":"classic"}'>
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-7d846b4 elementor-widget elementor-widget-image" data-element_type="widget" data-id="7d846b4" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <img alt="" class="elementor-animation-buzz attachment-thumbnail size-thumbnail wp-image-1060" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="http://remote-squad.com/wp-content/uploads/2023/01/content-150x150.png" srcset="http://remote-squad.com/wp-content/uploads/2023/01/content-150x150.png 150w, http://remote-squad.com/wp-content/uploads/2023/01/content-300x300.png 300w, http://remote-squad.com/wp-content/uploads/2023/01/content.png 512w" width="150"/>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-596acad" data-element_type="column" data-id="596acad">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-fa1ed1b elementor-widget elementor-widget-heading" data-element_type="widget" data-id="fa1ed1b" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">
+             <a href="http://remote-squad.com/contact%20">
+              Content Creation
+             </a>
+            </h2>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-cbea1ed elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="cbea1ed" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             We produce high-quality content that accurately represents our clients’ businesses and brings them to the forefront of their respective industries.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-4f20e2e elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible" data-element_type="section" data-id="4f20e2e" data-settings='{"animation":"fadeInLeft"}'>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-664cfef" data-element_type="column" data-id="664cfef">
+     <div class="elementor-widget-wrap">
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-02b31ec" data-element_type="column" data-id="02b31ec">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-5d4205e elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="5d4205e" data-settings='{"animation":"none"}'>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8563c38" data-element_type="column" data-id="8563c38" data-settings='{"background_background":"classic"}'>
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-46fe813 elementor-widget elementor-widget-image" data-element_type="widget" data-id="46fe813" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <img alt="" class="elementor-animation-buzz attachment-thumbnail size-thumbnail wp-image-1036" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="http://remote-squad.com/wp-content/uploads/2023/01/documents-150x150.png" srcset="http://remote-squad.com/wp-content/uploads/2023/01/documents-150x150.png 150w, http://remote-squad.com/wp-content/uploads/2023/01/documents-300x300.png 300w, http://remote-squad.com/wp-content/uploads/2023/01/documents.png 512w" width="150"/>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3d88a5f" data-element_type="column" data-id="3d88a5f">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-d8a0fd4 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="d8a0fd4" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">
+             <a href="http://remote-squad.com/contact%20">
+              Document Review and Translation
+             </a>
+            </h2>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-5acd117 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="5acd117" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             We provide translation services for documents from one language to another and redesign documents.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6ad3fe8" data-element_type="column" data-id="6ad3fe8">
+     <div class="elementor-widget-wrap">
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-0fcab50 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="0fcab50">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-693b719" data-element_type="column" data-id="693b719">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-9330a56 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="9330a56" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h1 class="elementor-heading-title elementor-size-default">
+         OUR PURPOSE
+        </h1>
+       </div>
+      </div>
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-3b5276e elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible" data-element_type="section" data-id="3b5276e" data-settings='{"animation":"fadeInRight"}'>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c403944" data-element_type="column" data-id="c403944">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-10714ff elementor-widget elementor-widget-image" data-element_type="widget" data-id="10714ff" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <a href="http://premium-certificates.com">
+             <img alt="" class="attachment-medium_large size-medium_large wp-image-2063" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="http://remote-squad.com/wp-content/uploads/2023/01/Artsy-logo-234.png" srcset="http://remote-squad.com/wp-content/uploads/2023/01/Artsy-logo-234.png 300w, http://remote-squad.com/wp-content/uploads/2023/01/Artsy-logo-234-150x150.png 150w" width="300"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2a560af" data-element_type="column" data-id="2a560af">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-58ace1a elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="58ace1a" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             Artsy Africa Remote Squad is part of Artsy Africa Academy (NGO) which  is established with the purpose of generating funds through providing IT services, including mobile app development, website design and development, and more. All funds collected are used to support the orphans, disabled children and also the school drop out children who are found in Artsy Africa Academy, then the funds are used through providing scholarships, giving out  basic needs such as food and clothes to these children, and the remaining funds are used to pay the IT experts.
+            </p>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-16376e0 elementor-widget elementor-widget-button" data-element_type="widget" data-id="16376e0" data-widget_type="button.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper">
+             <a class="elementor-button-link elementor-button elementor-size-sm" href="http://premium-certificates.com" role="button">
+              <span class="elementor-button-content-wrapper">
+               <span class="elementor-button-icon elementor-align-icon-right">
+                <i aria-hidden="true" class="fas fa-arrow-right">
+                </i>
+               </span>
+               <span class="elementor-button-text">
+                Visit Site
+               </span>
+              </span>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-ac50e14 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="ac50e14">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9a6ecb8" data-element_type="column" data-id="9a6ecb8">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-7c2aab1 elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7c2aab1" data-settings='{"_animation":"zoomIn"}' data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h1 class="elementor-heading-title elementor-size-default">
+         WHY CHOOSE US
+        </h1>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-bd982e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible" data-element_type="section" data-id="bd982e7" data-settings='{"animation":"zoomIn"}'>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e51fe0d" data-element_type="column" data-id="e51fe0d" data-settings='{"background_background":"classic"}'>
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-5ebc97e elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="5ebc97e">
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2a06fba" data-element_type="column" data-id="2a06fba">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-034a6c4 elementor-view-default elementor-widget elementor-widget-icon" data-element_type="widget" data-id="034a6c4" data-widget_type="icon.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-icon-wrapper">
+             <div class="elementor-icon">
+              <i aria-hidden="true" class="fas fa-check-double">
+              </i>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <div class="elementor-element elementor-element-09c7be3 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="09c7be3" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h2 class="elementor-heading-title elementor-size-default">
+         Quality Assurance
+        </h2>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-cbb6e8f elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="cbb6e8f" data-widget_type="text-editor.default">
+       <div class="elementor-widget-container">
+        <p>
+         We have steps that our team of quality assurance carry out to ensure the best quality for our services to our clients.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-63a5ee2" data-element_type="column" data-id="63a5ee2">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-f59c136 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="f59c136">
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-d547768" data-element_type="column" data-id="d547768">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-7404eea elementor-view-default elementor-widget elementor-widget-icon" data-element_type="widget" data-id="7404eea" data-widget_type="icon.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-icon-wrapper">
+             <div class="elementor-icon">
+              <i aria-hidden="true" class="fas fa-users">
+              </i>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <div class="elementor-element elementor-element-896c2a5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="896c2a5" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h2 class="elementor-heading-title elementor-size-default">
+         Experts
+        </h2>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-7bae5d0 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="7bae5d0" data-widget_type="text-editor.default">
+       <div class="elementor-widget-container">
+        <p>
+         Our team of experts who are ready to give you the best services with the highest quality possible.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4526b8e" data-element_type="column" data-id="4526b8e">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-5f840b1 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="5f840b1">
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4c7660a" data-element_type="column" data-id="4c7660a">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-9377830 elementor-view-default elementor-widget elementor-widget-icon" data-element_type="widget" data-id="9377830" data-widget_type="icon.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-icon-wrapper">
+             <div class="elementor-icon">
+              <i aria-hidden="true" class="fas fa-balance-scale">
+              </i>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <div class="elementor-element elementor-element-5d71410 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="5d71410" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h2 class="elementor-heading-title elementor-size-default">
+         Cost
+        </h2>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-431b251 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="431b251" data-widget_type="text-editor.default">
+       <div class="elementor-widget-container">
+        <p>
+         We have relatively cheaper prices for our services that are in favor of our clients and the quality is still maintained.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5742f57" data-element_type="column" data-id="5742f57">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-cfcda28 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="cfcda28">
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a05ad07" data-element_type="column" data-id="a05ad07">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-f62ef33 elementor-view-default elementor-widget elementor-widget-icon" data-element_type="widget" data-id="f62ef33" data-widget_type="icon.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-icon-wrapper">
+             <div class="elementor-icon">
+              <i aria-hidden="true" class="fas fa-hands-helping">
+              </i>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <div class="elementor-element elementor-element-02867aa elementor-widget elementor-widget-heading" data-element_type="widget" data-id="02867aa" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h2 class="elementor-heading-title elementor-size-default">
+         Customer Involvement
+        </h2>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-10b4cbc elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="10b4cbc" data-widget_type="text-editor.default">
+       <div class="elementor-widget-container">
+        <p>
+         We make our clients to be part of the product development in order to ensure best quality output.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-35b5377 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="35b5377">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63cd229" data-element_type="column" data-id="63cd229">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-c79b210 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c79b210" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h1 class="elementor-heading-title elementor-size-default">
+         OUR PROGRAM
+        </h1>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-26e201a elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible" data-element_type="section" data-id="26e201a" data-settings='{"animation":"fadeInLeft"}'>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e3daa37" data-element_type="column" data-id="e3daa37">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-e3f69e4 elementor-widget elementor-widget-image" data-element_type="widget" data-id="e3f69e4" data-widget_type="image.default">
+       <div class="elementor-widget-container">
+        <img alt="" class="attachment-large size-large wp-image-2044" decoding="async" height="640" loading="lazy" sizes="(max-width: 960px) 100vw, 960px" src="http://remote-squad.com/wp-content/uploads/2023/01/Artsy-afrrrricccA.jpg" srcset="http://remote-squad.com/wp-content/uploads/2023/01/Artsy-afrrrricccA.jpg 1024w, http://remote-squad.com/wp-content/uploads/2023/01/Artsy-afrrrricccA-300x200.jpg 300w, http://remote-squad.com/wp-content/uploads/2023/01/Artsy-afrrrricccA-768x512.jpg 768w" width="960"/>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-83ace7f" data-element_type="column" data-id="83ace7f">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-7e02049 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7e02049" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h2 class="elementor-heading-title elementor-size-default">
+         International Experts Program
+        </h2>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-a0246eb elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a0246eb" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h2 class="elementor-heading-title elementor-size-default">
+         FROM LOCAL TO INTERNATIONAL PROJECTS
+        </h2>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-50a17f1 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="50a17f1" data-widget_type="text-editor.default">
+       <div class="elementor-widget-container">
+        <p>
+         This is a collaboration that aims at providing up to 100% scholarships to students in Africa who are unable to fully fund their education. Artsy Africa academy, IU, and Study access Alliance provide 90% of the scholarship then the remaining 10% is obtained through crowd funding and partner companies like HI2, where the students are provided with projects to attain career relevant skill for the future and upkeep during their studies. They are later recommended for jobs or retained at the companies.
+        </p>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-64dc732 elementor-align-left elementor-widget elementor-widget-button" data-element_type="widget" data-id="64dc732" data-widget_type="button.default">
+       <div class="elementor-widget-container">
+        <div class="elementor-button-wrapper">
+         <a class="elementor-button-link elementor-button elementor-size-sm" href="https://international-experts.com" role="button">
+          <span class="elementor-button-content-wrapper">
+           <span class="elementor-button-icon elementor-align-icon-right">
+            <i aria-hidden="true" class="fas fa-arrow-right">
+            </i>
+           </span>
+           <span class="elementor-button-text">
+            Visit Site
+           </span>
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-6fd6f95 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible" data-element_type="section" data-id="6fd6f95" data-settings='{"animation":"slideInRight"}'>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-602a788" data-element_type="column" data-id="602a788">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-e4a42fa elementor-widget elementor-widget-heading" data-element_type="widget" data-id="e4a42fa" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h2 class="elementor-heading-title elementor-size-default">
+         Completed Projects
+        </h2>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-b99172d elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="b99172d" data-widget_type="text-editor.default">
+       <div class="elementor-widget-container">
+        <p>
+         Throughout our tenure in this industry, we have had the privilege of taking on a diverse range of projects. With the dedication and expertise of our  teams, coupled with the invaluable support and partnership of our esteemed clients, we have been able to accomplish a plethora of notable achievements. From the successful implementation of cutting-edge technologies, to the attainment of industry-leading performance metrics, we have consistently strived to exceed expectations and deliver exceptional results.
+        </p>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-ced16c0 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="ced16c0" data-widget_type="button.default">
+       <div class="elementor-widget-container">
+        <div class="elementor-button-wrapper">
+         <a class="elementor-button-link elementor-button elementor-size-sm" href="http://remote-squad.com/portfolio" role="button">
+          <span class="elementor-button-content-wrapper">
+           <span class="elementor-button-icon elementor-align-icon-right">
+            <i aria-hidden="true" class="fas fa-arrow-right">
+            </i>
+           </span>
+           <span class="elementor-button-text">
+            Find More
+           </span>
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-894eb46" data-element_type="column" data-id="894eb46">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-c3875bb elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-element_type="widget" data-id="c3875bb" data-settings='{"start":0,"end":23,"loop":"yes","video_type":"hosted","autoplay":"yes","mute":"yes","controls":"yes","aspect_ratio":"169"}' data-widget_type="video.default">
+       <div class="elementor-widget-container">
+        <style>
+         /*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}
+        </style>
+        <div class="e-hosted-video elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+         <video autoplay="" class="elementor-video" controls="" controlslist="nodownload" loop="" muted="muted" src="http://remote-squad.com/wp-content/uploads/2023/01/OUR-DONE-PROJECTS-4.mp4#t=,23">
+         </video>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-2810f8b elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="2810f8b">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-36ee2b9" data-element_type="column" data-id="36ee2b9">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-b97f535 elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b97f535" data-settings='{"_animation":"fadeInRight"}' data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h1 class="elementor-heading-title elementor-size-default">
+         OUR PARTNERS
+        </h1>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-11a80e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="11a80e7">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dd90828" data-element_type="column" data-id="dd90828">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-636ffd1 elementor-arrows-position-outside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-element_type="widget" data-id="636ffd1" data-settings='{"navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","autoplay_speed":5000,"infinite":"yes","speed":500}' data-widget_type="image-carousel.default">
+       <div class="elementor-widget-container">
+        <style>
+         /*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}
+        </style>
+        <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+         <div class="elementor-image-carousel swiper-wrapper">
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (64)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-64.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (62)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-62.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (60)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-60.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (59)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-59.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (68)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-68.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (67)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-67.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (69)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-69.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (65)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-65.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (54)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-54.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (61)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-61.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (58)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-58.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (63)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-63.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="study Alliance (66)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/02/study-Alliance-66.png"/>
+           </figure>
+          </div>
+         </div>
+         <div class="swiper-pagination">
+         </div>
+         <div class="elementor-swiper-button elementor-swiper-button-prev">
+          <i aria-hidden="true" class="eicon-chevron-left">
+          </i>
+          <span class="elementor-screen-only">
+           Previous
+          </span>
+         </div>
+         <div class="elementor-swiper-button elementor-swiper-button-next">
+          <i aria-hidden="true" class="eicon-chevron-right">
+          </i>
+          <span class="elementor-screen-only">
+           Next
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-4c4c57c elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="4c4c57c" data-settings='{"background_background":"classic"}' id="about-us">
+   <div class="elementor-background-overlay">
+   </div>
+   <div class="elementor-container elementor-column-gap-no">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-35c4a6d" data-element_type="column" data-id="35c4a6d">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-06160d6 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible" data-element_type="section" data-id="06160d6" data-settings='{"animation":"fadeInUp"}'>
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-df9a172" data-element_type="column" data-id="df9a172">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-f71f8e9 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f71f8e9" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h1 class="elementor-heading-title elementor-size-default">
+             About Us
+            </h1>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-19647d0 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="19647d0" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             We specialized in providing IT services that improve our client’s business performance into a better version than what it was, with our clients who are around the world we keep them in touch with us. We have a team of experts who have the love and passion to deliver the best quality for our clients.
+            </p>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-258a7f1 elementor-align-left elementor-tablet-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="258a7f1" data-widget_type="button.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper">
+             <a class="elementor-button-link elementor-button elementor-size-sm" href="http://remote-squad.com/about" role="button">
+              <span class="elementor-button-content-wrapper">
+               <span class="elementor-button-icon elementor-align-icon-right">
+                <i aria-hidden="true" class="fas fa-arrow-right">
+                </i>
+               </span>
+               <span class="elementor-button-text">
+                Learn More
+               </span>
+              </span>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-542d0bb" data-element_type="column" data-id="542d0bb">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-e6536fe elementor-widget elementor-widget-image" data-element_type="widget" data-id="e6536fe" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <img alt="" class="attachment-large size-large wp-image-1544" decoding="async" height="640" loading="lazy" sizes="(max-width: 960px) 100vw, 960px" src="http://remote-squad.com/wp-content/uploads/2023/01/group-afro-americans-working-together-1024x683.jpg" srcset="http://remote-squad.com/wp-content/uploads/2023/01/group-afro-americans-working-together-1024x683.jpg 1024w, http://remote-squad.com/wp-content/uploads/2023/01/group-afro-americans-working-together-300x200.jpg 300w, http://remote-squad.com/wp-content/uploads/2023/01/group-afro-americans-working-together-768x512.jpg 768w, http://remote-squad.com/wp-content/uploads/2023/01/group-afro-americans-working-together-1536x1024.jpg 1536w, http://remote-squad.com/wp-content/uploads/2023/01/group-afro-americans-working-together-2048x1365.jpg 2048w" width="960"/>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-0a4b986 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="0a4b986">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7d44ad2" data-element_type="column" data-id="7d44ad2">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-deae5a4 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="deae5a4" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h1 class="elementor-heading-title elementor-size-default">
+         TESTIMONIALS
+        </h1>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-6113033 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="6113033">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b625cc" data-element_type="column" data-id="5b625cc">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-a64d861 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-element_type="widget" data-id="a64d861" data-settings='{"autoplay_speed":3000,"navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","infinite":"yes","speed":500}' data-widget_type="image-carousel.default">
+       <div class="elementor-widget-container">
+        <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+         <div class="elementor-image-carousel swiper-wrapper">
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="brown testimonial facebook post (11)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/01/brown-testimonial-facebook-post-11-396x360.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="brown testimonial facebook post (10)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/01/brown-testimonial-facebook-post-10-396x360.png"/>
+           </figure>
+          </div>
+          <div class="swiper-slide">
+           <figure class="swiper-slide-inner">
+            <img alt="brown testimonial facebook post (8)" class="swiper-slide-image" decoding="async" src="http://remote-squad.com/wp-content/uploads/2023/01/brown-testimonial-facebook-post-8-396x360.png"/>
+           </figure>
+          </div>
+         </div>
+         <div class="swiper-pagination">
+         </div>
+         <div class="elementor-swiper-button elementor-swiper-button-prev">
+          <i aria-hidden="true" class="eicon-chevron-left">
+          </i>
+          <span class="elementor-screen-only">
+           Previous
+          </span>
+         </div>
+         <div class="elementor-swiper-button elementor-swiper-button-next">
+          <i aria-hidden="true" class="eicon-chevron-right">
+          </i>
+          <span class="elementor-screen-only">
+           Next
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-c1f1b53 elementor-section-height-min-height elementor-section-items-top elementor-section-boxed elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="c1f1b53" data-settings='{"background_background":"classic"}'>
+   <div class="elementor-background-overlay">
+   </div>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e4dfe93" data-element_type="column" data-id="e4dfe93">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-51d656a elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="51d656a">
+       <div class="elementor-container elementor-column-gap-no">
+        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ff52226" data-element_type="column" data-id="ff52226">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-342af10 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="342af10" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h1 class="elementor-heading-title elementor-size-default">
+             HAVE ANY PROJECT IN MIND
+            </h1>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-cf2cfb5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="cf2cfb5" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             We are ready to build  your project with our experts who are fully equipped.
+            </p>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-c9b4a80 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="c9b4a80" data-widget_type="button.default">
+           <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper">
+             <a class="elementor-button-link elementor-button elementor-size-sm" href="http://remote-squad.com/contact%20" role="button">
+              <span class="elementor-button-content-wrapper">
+               <span class="elementor-button-icon elementor-align-icon-right">
+                <i aria-hidden="true" class="fas fa-arrow-right">
+                </i>
+               </span>
+               <span class="elementor-button-text">
+                Contact Us
+               </span>
+              </span>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+  </section>
+ </div>
+ <div class="elementor elementor-342" data-elementor-id="342" data-elementor-type="wp-post">
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-9584759 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="9584759">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-54a404e" data-element_type="column" data-id="54a404e">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <section class="elementor-section elementor-inner-section elementor-element elementor-element-38a68d0 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="38a68d0">
+       <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-aad8065" data-element_type="column" data-id="aad8065">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-ec112ed elementor-widget elementor-widget-image" data-element_type="widget" data-id="ec112ed" data-widget_type="image.default">
+           <div class="elementor-widget-container">
+            <img alt="" class="attachment-large size-large wp-image-2411" height="500" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="http://remote-squad.com/wp-content/uploads/2022/06/Gold-White-Elegant-Property-Logo-10.png" srcset="http://remote-squad.com/wp-content/uploads/2022/06/Gold-White-Elegant-Property-Logo-10.png 500w, http://remote-squad.com/wp-content/uploads/2022/06/Gold-White-Elegant-Property-Logo-10-300x300.png 300w, http://remote-squad.com/wp-content/uploads/2022/06/Gold-White-Elegant-Property-Logo-10-150x150.png 150w" width="500"/>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-a7fbd4c elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a7fbd4c" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             We give quality services
+            </h6>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-e2d8e56" data-element_type="column" data-id="e2d8e56">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-8e666f8 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="8e666f8" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             OUR PAGES
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-7bc9ca2 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7bc9ca2" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Home
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-bb65ea9 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="bb65ea9" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Services
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-de848c3 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="de848c3" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Contact Us
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-cc41e55 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="cc41e55" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             About Us
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-6f946ef elementor-widget elementor-widget-heading" data-element_type="widget" data-id="6f946ef" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Team
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-85adfe4 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="85adfe4" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Portfolio
+            </h6>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-d88cfef" data-element_type="column" data-id="d88cfef">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-e200041 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="e200041" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             OUR SERVICES
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-00d6907 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="00d6907" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Mobile App Development
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-e1ba6e0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="e1ba6e0" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Website Design and Development
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-81a440c elementor-widget elementor-widget-heading" data-element_type="widget" data-id="81a440c" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Social Media Marketing
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-84aa69c elementor-widget elementor-widget-heading" data-element_type="widget" data-id="84aa69c" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Content Creation
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-1875b43 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1875b43" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             AI and Marketing Analytics
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-0180eb3 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0180eb3" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Document Revision and Translation
+            </h6>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-b9cdee4" data-element_type="column" data-id="b9cdee4">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-919b836 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="919b836" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             OUR PARTNERS
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-5b7276e elementor-widget elementor-widget-heading" data-element_type="widget" data-id="5b7276e" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Artsy Africa
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-d9ce822 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="d9ce822" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             International University of Applied Sciences
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-f196d2e elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f196d2e" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Human Intelligence International
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-a6aa5f1 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a6aa5f1" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             International Experts
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-480e023 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="480e023" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Trainers 4 Training
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-51bacd7 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="51bacd7" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             EAU Propre d' Afrique
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-3e77e05 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="3e77e05" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Hoteliers Guild
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-5ef33f9 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="5ef33f9" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Clemios IT outsourcing
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-937ecf0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="937ecf0" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Dilis Fruits
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-edc1531 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="edc1531" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Add-On
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-9b26121 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="9b26121" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Hairstylist Sarah
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-ba1bf5a elementor-widget elementor-widget-heading" data-element_type="widget" data-id="ba1bf5a" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             Kyeyune Janet
+            </h6>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-a04a9d0" data-element_type="column" data-id="a04a9d0">
+         <div class="elementor-widget-wrap elementor-element-populated">
+          <div class="elementor-element elementor-element-d05d200 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="d05d200" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h6 class="elementor-heading-title elementor-size-default">
+             CONTACT US  ON
+            </h6>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-78ceae7 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="78ceae7" data-widget_type="icon-list.default">
+           <div class="elementor-widget-container">
+            <link href="https://remote-squad.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css" rel="stylesheet"/>
+            <ul class="elementor-icon-list-items">
+             <li class="elementor-icon-list-item">
+              <span class="elementor-icon-list-icon">
+               <i aria-hidden="true" class="fas fa-phone-alt">
+               </i>
+              </span>
+              <span class="elementor-icon-list-text">
+               + 49-176-232-208-55
+               <br/>
+               +256-726-073-861
+              </span>
+             </li>
+            </ul>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-a522b59 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="a522b59" data-widget_type="icon-list.default">
+           <div class="elementor-widget-container">
+            <ul class="elementor-icon-list-items">
+             <li class="elementor-icon-list-item">
+              <span class="elementor-icon-list-icon">
+               <i aria-hidden="true" class="fas fa-envelope-open-text">
+               </i>
+              </span>
+              <span class="elementor-icon-list-text">
+               info@remote-squad.com
+              </span>
+             </li>
+            </ul>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-842ce0d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-id="842ce0d" data-widget_type="icon-list.default">
+           <div class="elementor-widget-container">
+            <ul class="elementor-icon-list-items">
+             <li class="elementor-icon-list-item">
+              <span class="elementor-icon-list-icon">
+               <i aria-hidden="true" class="fas fa-map-marker-alt">
+               </i>
+              </span>
+              <span class="elementor-icon-list-text">
+               Kampala, Uganda
+              </span>
+             </li>
+            </ul>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-e094e09 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="e094e09" data-widget_type="heading.default">
+           <div class="elementor-widget-container">
+            <h5 class="elementor-heading-title elementor-size-default">
+             Our Offices
+            </h5>
+           </div>
+          </div>
+          <div class="elementor-element elementor-element-a46f5b5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a46f5b5" data-widget_type="text-editor.default">
+           <div class="elementor-widget-container">
+            <p>
+             Kampala, KIbuli, Uganda
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-916a5d5 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="916a5d5" data-settings='{"background_background":"classic"}'>
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-26ce34f" data-element_type="column" data-id="26ce34f">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-fec312a elementor-widget elementor-widget-heading" data-element_type="widget" data-id="fec312a" data-widget_type="heading.default">
+       <div class="elementor-widget-container">
+        <h6 class="elementor-heading-title elementor-size-default">
+         follow us on;
+        </h6>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-537ea46 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-element_type="widget" data-id="537ea46" data-widget_type="social-icons.default">
+       <div class="elementor-widget-container">
+        <style>
+         /*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:inline-flex;background-color:#818a91;align-items:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}
+        </style>
+        <div class="elementor-social-icons-wrapper elementor-grid">
+         <span class="elementor-grid-item">
+          <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-float elementor-repeater-item-8c36886" target="_blank">
+           <span class="elementor-screen-only">
+            Facebook-f
+           </span>
+           <i class="fab fa-facebook-f">
+           </i>
+          </a>
+         </span>
+         <span class="elementor-grid-item">
+          <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-float elementor-repeater-item-785bba2" href="http://ArtsyAfricaRemoteSquad%20@ArtsySquad" target="_blank">
+           <span class="elementor-screen-only">
+            Twitter
+           </span>
+           <i class="fab fa-twitter">
+           </i>
+          </a>
+         </span>
+         <span class="elementor-grid-item">
+          <a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-float elementor-repeater-item-716afaa" href="https://www.instagram.com/artsy_africa_remote_squad/" target="_blank">
+           <span class="elementor-screen-only">
+            Instagram
+           </span>
+           <i class="fab fa-instagram">
+           </i>
+          </a>
+         </span>
+         <span class="elementor-grid-item">
+          <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-float elementor-repeater-item-18c26f8" href="https://www.linkedin.com/company/remote-squad/" target="_blank">
+           <span class="elementor-screen-only">
+            Linkedin
+           </span>
+           <i class="fab fa-linkedin">
+           </i>
+          </a>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="elementor-element elementor-element-87fae19 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="87fae19" data-widget_type="text-editor.default">
+       <div class="elementor-widget-container">
+        <p>
+         © Copyright 2022 @artsyafricaremotesquad
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-e860646 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-element_type="section" data-id="e860646">
+   <div class="elementor-container elementor-column-gap-no">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7a1f353" data-element_type="column" data-id="7a1f353">
+     <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-284195f wpr-stt-btn-align-fixed wpr-stt-btn-align-fixed-right elementor-widget elementor-widget-wpr-back-to-top" data-element_type="widget" data-id="284195f" data-widget_type="wpr-back-to-top.default">
+       <div class="elementor-widget-container">
+        <div class="wpr-stt-wrapper">
+         <div class="wpr-stt-btn" data-settings='{"animation":"slide","animationOffset":0,"animationDuration":200,"fixed":"fixed","scrolAnim":800}'>
+          <span class="wpr-stt-icon">
+           <i class="fas fa-chevron-up">
+           </i>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="elementor-section elementor-top-section elementor-element elementor-element-551ef2d wpr-sticky-section-yes elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no" data-element_type="section" data-id="551ef2d" data-settings='{"position_offset":64,"position_offset_tablet":0,"position_offset_mobile":0}' data-wpr-active-breakpoints="mobile_sticky tablet_sticky desktop_sticky" data-wpr-custom-breakpoints="" data-wpr-position-location="bottom" data-wpr-position-offset="64" data-wpr-position-type="fixed" data-wpr-sticky-devices="desktop_sticky" data-wpr-sticky-section="yes" data-wpr-z-index="10">
+   <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-27e2300" data-element_type="column" data-id="27e2300">
+     <div class="elementor-widget-wrap">
+     </div>
+    </div>
+   </div>
+  </section>
+ </div>
+ <link href="http://remote-squad.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/wpr-link-animations.min.css?ver=1.3.60" id="wpr-link-animations-css-css" media="all" rel="stylesheet" type="text/css">
+  <link href="http://remote-squad.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.9.2" id="e-animations-css" media="all" rel="stylesheet" type="text/css"/>
+  <script id="swv-js" src="http://remote-squad.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2" type="text/javascript">
+  </script>
+  <script id="contact-form-7-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/remote-squad.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+  </script>
+  <script id="contact-form-7-js" src="http://remote-squad.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2" type="text/javascript">
+  </script>
+  <script id="wpr-particles-js" src="http://remote-squad.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6" type="text/javascript">
+  </script>
+  <script id="wpr-jarallax-js" src="http://remote-squad.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7" type="text/javascript">
+  </script>
+  <script id="wpr-parallax-hover-js" src="http://remote-squad.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="htmega-popper-js" src="http://remote-squad.com/wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min.js?ver=2.0.3" type="text/javascript">
+  </script>
+  <script id="htbbootstrap-js" src="http://remote-squad.com/wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap.js?ver=2.0.3" type="text/javascript">
+  </script>
+  <script id="waypoints-js" src="http://remote-squad.com/wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints.js?ver=2.0.3" type="text/javascript">
+  </script>
+  <script id="wpr-popup-scroll-js-js" src="http://remote-squad.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/perfect-scrollbar/perfect-scrollbar.min.js?ver=0.4.9" type="text/javascript">
+  </script>
+  <script id="wpr-addons-js-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var WprConfig = {"ajaxurl":"http:\/\/remote-squad.com\/wp-admin\/admin-ajax.php","resturl":"http:\/\/remote-squad.com\/wp-json\/wpraddons\/v1","nonce":"16667caa21"};
+/* ]]> */
+  </script>
+  <script id="wpr-addons-js-js" src="http://remote-squad.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.3.60" type="text/javascript">
+  </script>
+  <script id="wpr-modal-popups-js-js" src="http://remote-squad.com/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.3.60" type="text/javascript">
+  </script>
+  <script id="elementor-webpack-runtime-js" src="http://remote-squad.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.9.2" type="text/javascript">
+  </script>
+  <script id="elementor-frontend-modules-js" src="http://remote-squad.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.9.2" type="text/javascript">
+  </script>
+  <script id="elementor-waypoints-js" src="http://remote-squad.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" type="text/javascript">
+  </script>
+  <script id="jquery-ui-core-js" src="http://remote-squad.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" type="text/javascript">
+  </script>
+  <script id="elementor-frontend-js-before" type="text/javascript">
+   var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.9.2","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"kit-elements-defaults":true},"urls":{"assets":"http:\/\/remote-squad.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":977,"title":"Remote-squad","excerpt":"","featuredImage":false}};
+  </script>
+  <script id="elementor-frontend-js" src="http://remote-squad.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.9.2" type="text/javascript">
+  </script>
+  <script id="underscore-js" src="http://remote-squad.com/wp-includes/js/underscore.min.js?ver=1.13.4" type="text/javascript">
+  </script>
+  <script id="wp-util-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+  </script>
+  <script id="wp-util-js" src="http://remote-squad.com/wp-includes/js/wp-util.min.js?ver=6.1.1" type="text/javascript">
+  </script>
+  <script id="wpforms-elementor-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+/* ]]> */
+  </script>
+  <script id="wpforms-elementor-js" src="http://remote-squad.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.9.1" type="text/javascript">
+  </script>
+ </link>
+</body>
+remotesquad.txt

@@ -1,8 +1,8 @@
 import time
+import os
 
 import requests
 from bs4 import BeautifulSoup
-import datetime
 import helpers
 
 FREQUENCY = 5 * 60
@@ -36,28 +36,12 @@ def content_has_changed(filename, content):
             if old_content == content:
                 return False
             else:
-                print("Changes\n" + find_changed_parts(old_content, content)[:200])
+                print("Changes\n" + helpers.find_changed_parts(old_content, content)[:200])
                 return True
 
     except FileNotFoundError:
         write_content(filename, str(page_body.prettify()))
         return False
-
-
-def find_changed_parts(string1, string2):
-    changed_parts = ""
-    if len(string1) > len(string2):
-        reference_string = string1
-        shorter_string = string2
-    else:
-        reference_string = string2
-        shorter_string = string1
-    for i in range(len(shorter_string)):
-        if shorter_string[i] != reference_string[i]:
-            changed_parts += reference_string[i]
-    if len(reference_string) > len(shorter_string):
-        changed_parts += reference_string[len(shorter_string):]
-    return changed_parts
 
 
 def send_email(message):
@@ -67,6 +51,8 @@ def send_email(message):
 def write_content(filename, _new_content):
     with open(filename, 'w') as file:
         file.write(_new_content)
+        with open(".gitignore", "a") as f:
+            file.write(filename)
 
 
 def get_websites(path):
@@ -79,10 +65,14 @@ def get_websites(path):
 
 while True:
     changed_sites = []
-    print(get_websites(PATH_TO_LINKS))
     for url in get_websites(PATH_TO_LINKS):
         incoming_content = get_page_content(url.replace("\n", ""))
-        name = helpers.get_names_from_url(url)[0]
+        names = helpers.get_names_from_url(url)[0]
+        name = ""
+        if len(names) > 1:
+            
+        else:
+            name = names[0]
 
         if len(incoming_content) > 100 and content_has_changed(f"{name}.txt", incoming_content):
             changed_sites.append([name, url])
