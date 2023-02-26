@@ -17,8 +17,7 @@ from helpers import (
 
 colorama.init(autoreset=True)
 
-url = "http://www.agromarketday.com/markets/12-owino-market"
-get_site = requests.get(url)
+get_site = requests.get("http://www.agromarketday.com/markets/12-owino-market")
 
 # Let's check the response
 print(get_color(get_site.status_code), get_site.headers)
