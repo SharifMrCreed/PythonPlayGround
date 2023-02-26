@@ -11,26 +11,25 @@ def get_page_content(_url):
     elif get_site.status_code >= 300:
         return "Relocated"
     elif get_site.status_code >= 200:
-        return str(get_site.content)
+        return get_site.content
     else:
         return "UnKnown"
 
 
 def content_has_changed(filename, content):
-    page_body = BeautifulSoup(content, 'lxml').find('body')
-    content = str(page_body.prettify())
+    page_body = BeautifulSoup(content, 'html.parser').find('body')
+    content = page_body.text.replace("\n\n", "")
 
     try:
         with open(filename, 'r') as file:
             old_content = ""
-            old_content.join(file)
-            print(old_content[:50])
-            print(page_body.prettify()[:50])
+            for line in file:
+                old_content += line
             write_content(filename, content)
             if old_content == content:
                 return False
             else:
-                print(find_changed_parts(old_content, content))
+                print("Changes\n" + find_changed_parts(old_content, content)[:200])
                 return True
 
     except FileNotFoundError:
@@ -79,9 +78,8 @@ changed_sites = []
 print(get_websites())
 for name, url in get_websites():
     incoming_content = get_page_content(url.replace("\n", ""))
-    print("\n" + incoming_content[:50])
 
-    if len(incoming_content) > 100 and content_has_changed(f"{name}.txt", str(incoming_content)):
+    if len(incoming_content) > 100 and content_has_changed(f"{name}.txt", incoming_content):
         changed_sites.append([name, url])
         print(name + "***    content has changed\n")
     else:
