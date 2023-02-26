@@ -1,4 +1,5 @@
 import urllib.parse
+import os
 
 
 def get_names_from_url(url):
@@ -23,6 +24,8 @@ def get_names_from_url(url):
             other_parts = part.split(".")
             if len(other_parts) > 0:
                 for other_part in other_parts:
+                    if not_allowed.__contains__(other_part.lower()):
+                        continue
                     if other_part.lower() == "com":
                         break
                     else:
@@ -58,3 +61,24 @@ def find_changed_parts(string1, string2):
     if len(string2) > len(shorter_string):
         changed_parts += string2[len(shorter_string):]
     return changed_parts
+
+
+def create_directory(name):
+    directory = os.getcwd()
+    path = os.path.join(directory, name)
+    try:
+        os.mkdir(path)
+    except FileExistsError:
+        pass
+    return path
+
+
+def add_to_gitignore(filename):
+    with open(".gitignore", "r") as file:
+        ignored = [line for line in file]
+        if not ignored.__contains__(filename):
+            with open(".gitignore", "a") as f:
+                f.write(filename)
+
+
+
