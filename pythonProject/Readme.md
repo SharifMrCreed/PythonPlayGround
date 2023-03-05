@@ -13,3 +13,5 @@ exist they are created and monitoring starts. Most of the features lack the thor
 - Full Website monitoring. will definitely add this. might require a spider though
 - Html and styling related to what has changed: It is better to alert with the exact changes that have happened to the site even design changes
 - 
+
+I need to ask a few questions?
