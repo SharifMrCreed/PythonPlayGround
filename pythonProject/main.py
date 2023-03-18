@@ -21,7 +21,7 @@ def get_page_content(_url):
     elif get_site.status_code >= 200:
         return get_site.content
     else:
-        return "UnKnown"
+        return "UnKnown Error"
 
 
 def content_has_changed(filename, content):
