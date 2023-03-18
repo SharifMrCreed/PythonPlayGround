@@ -82,3 +82,38 @@ def add_to_gitignore(filename):
 
 
 
+
+def get_websites(path):
+    try:
+        with open(path, 'r') as file:
+            return [line for line in file]
+    except FileNotFoundError:
+        return []
+
+
+
+def directory_name(url):
+    url_formats = ['https://','www','http://']
+    for format in url_formats:
+        if url.__contains__(format):
+            url_format =  format 
+
+        else:
+            url_format = None
+            
+    
+    print(url_format)
+    if url_format is not None:
+        domain = url.lstrip(url_format)
+        #remove paths
+        if domain.__contains__('/'):
+            domain_path= domain.split('/',1)
+            domain = domain_path[0]
+            print(domain)
+            return domain
+           
+        else:
+            return domain
+    else:
+        print('Url format is Invalid',url)
+        return

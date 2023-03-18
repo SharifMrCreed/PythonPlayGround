@@ -5,9 +5,11 @@ import requests
 from bs4 import BeautifulSoup
 import helpers
 
+
 FREQUENCY = 5 * 60
 PATH_TO_LINKS = "websites.txt"
 project = os.getcwd()
+
 
 
 def get_page_content(_url):
@@ -56,18 +58,11 @@ def write_content(filename, _new_content):
         file.write(_new_content)
 
 
-def get_websites(path):
-    try:
-        with open(path, 'r') as file:
-            return [line for line in file]
-    except FileNotFoundError:
-        return []
-
 
 while True:
     changed_sites = []
     directories = []
-    for url in get_websites(PATH_TO_LINKS):
+    for url in helpers.get_websites(PATH_TO_LINKS):
         incoming_content = get_page_content(url.replace("\n", ""))
         parts = helpers.get_names_from_url(url)
         directories = parts[0]

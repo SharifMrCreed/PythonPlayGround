@@ -15,3 +15,12 @@ exist they are created and monitoring starts. Most of the features lack the thor
 - 
 
 I need to ask a few questions?
+
+## Build upto the project
+-We need to identify what changes we are going to monitor from the website urls provided to our tool.
+such as text,layout ,images or any other elements on the pages that we want to monitor
+
+-We need to schedule the script to run periodically, such as once a day or once a week, to monitor changes in the websites depending how often we need to monitor these sites using a task scheduler or a cron job. 
+
+-
+
